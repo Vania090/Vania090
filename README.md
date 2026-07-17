@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm a Junior at UNC Chapel Hill👋
+I'm an aspiring Fintech Risk and Product Analyst. 
+
+## What I'm working on:
+- Learning SQL for data extraction.
+- Building a python and sql anti-money laundering simulator.
+- Exploring Tableau for data visualization. 
 
 <!--
 **Vania090/Vania090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
