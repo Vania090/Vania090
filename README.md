@@ -1,11 +1,14 @@
-## Hi, I'm a Junior at UNC Chapel Hill👋
-I'm an aspiring Fintech Risk and Product Analyst. 
+# Hi, I'm a Junior at UNC Chapel Hill👋
+** Aspiring Analytics / BI Engineer | Product & Fintech Risk Analyst ** ---
 
 ## What I'm working on:
 - Learning SQL for data extraction.
 - Building a python and sql anti-money laundering simulator.
 - Exploring Tableau for data visualization. 
 
+**Let's Connect!**
+- [LinkedIn](https://www.linkedin.com/in/vania-martinez-ayala-167070326)
+- vitzelma@ad.unc.edu
 <!--
 **Vania090/Vania090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
