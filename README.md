@@ -1,7 +1,7 @@
-# Hi, I'm a Junior at UNC Chapel Hill👋
-** Aspiring Analytics / BI Engineer | Product & Fintech Risk Analyst ** ---
+**Hi, I'm a Junior at UNC Chapel Hill✨**
+Aspiring Product Manager | BI Engineer | Product & Data Analyst
 
-## What I'm working on:
+What I'm working on:
 - Learning SQL for data extraction.
 - Building a python and sql anti-money laundering simulator.
 - Exploring Tableau for data visualization. 
